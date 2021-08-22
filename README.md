@@ -1,6 +1,5 @@
 # [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats)
 
-
 <a href="https://github.com/jasongaylord/github-stats">
    
 ![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
